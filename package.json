@@ -1,0 +1,30 @@
+{
+  "main": "index.html",
+  "name": "logit",
+
+  "window":
+  {
+    "toolbar"   : false,
+    "icon"      : "./assets/icons/icon.png",
+
+    "position"  : "center",
+
+    "width"     : 1000,
+    "height"    : 600,
+
+    "min_width" : 1000,
+    "min_height": 600,
+    "resizable" : true
+  },
+
+  "version": "0.1.0",
+
+  "maintainers":
+  [
+    {
+      "name" : "Michael James",
+      "email": "majames91@gmail.com",
+      "web"  : "http://"
+    }
+  ]
+}
