@@ -14,5 +14,5 @@ LogIT Series Desktop Monitor Software
 
   GUI:
 
-  [!Current GUI Itteration](https://raw.githubusercontent.com/majames/logit-monitor/master/images/gui_progression/logit_monitor_001.png?raw=true)
+  [Current GUI Iteration](https://raw.githubusercontent.com/majames/logit-monitor/master/images/gui_progression/logit_monitor_001.png?token=AHNBsnOhCZHGhiFv47DUQ5_G77bYUixuks5U1X3ewA%3D%3D)
 
